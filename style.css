@@ -1,0 +1,110 @@
+body{
+    background-color: white;
+}
+#main1{
+    display: grid;
+    place-items: center;
+    background-color: white;
+    float: left;
+    width: 40%;
+    height: 98vh;
+}
+#main2{
+    display: grid;
+    place-items: center;
+    background-color: white;
+    float: left;
+    width: 60%;
+    height: 98vh;
+}
+#picture{
+    border: 2px solid black;
+    border-radius: 38px;
+    background-image: url(cc.jpg);
+    width: 1080px;
+    height: 800px;
+}
+#login_area{
+    background-color: white;
+    width: 500px;
+    height: 750px;
+}
+#login_boder{
+    font-family:serif;
+    font-size: 32px;
+    background-color:white;
+    width: 649px;
+    height: 55px;
+}
+.space{
+    background-color:white;
+    width: 649px;
+    height: 20px;
+}
+#space_for_singnin{
+    font-family:serif;
+    background-color: white;
+    width: 649px;
+    height: 20px; 
+}
+.box{
+    background-color: white;
+    width: 649px;
+    height: 88px;
+}
+.input_box{
+    font-family:serif;
+    background-color:white;
+    width: 649px;
+    height: 65px;    
+}
+.input_area{
+    font-family:serif;
+    background-color:white;
+    width: 649px;
+    height: 55px;       
+}
+.input_place{
+    font-size: 18px;
+    font-family:serif;
+    outline: none;
+    text-align: center;
+    width: 500px;
+    height: 52px;
+    border: 2px solid grey;
+    border-radius: 15px;
+}
+#signin_button{
+    font-family:serif;
+    color: white;
+    background-color: #b58672;
+    border: 2px solid #b58672;
+    font-size: larger;
+    outline: none;
+    width: 500px;
+    height: 52px;
+    outline: none;
+    border-radius: 15px;
+}
+#login_in{
+    color: white;
+    display: grid;
+    place-items: center;
+    background-color: #b58672;
+    border-radius: 15px;
+    width: 500px;
+    height: 52px;
+}
+#login_in_txt{
+    color: white;
+    font-family:serif;
+    text-decoration: none;
+}
+hr{
+    background-color: grey;
+    width: 50px;
+    height: 1px;
+}
+#signin{
+    font-family:serif;
+}
